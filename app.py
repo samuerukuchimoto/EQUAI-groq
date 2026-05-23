@@ -1,12 +1,10 @@
 import streamlit as st
 from groq import Groq
 import json
-import urllib.parse
-from datetime import datetime
 
 st.set_page_config(page_title="BiasLens", page_icon="🔍", layout="centered")
 
-client = Groq(api_key=st.secrets["GROQ_API_KEY"])
+client = Groq(api_key="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")
 
 st.title("🔍 BiasLens")
 st.caption("Know if your decision is objective — before it affects someone.")
