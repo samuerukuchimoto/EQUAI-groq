@@ -4,7 +4,7 @@ import json
 
 st.set_page_config(page_title="BiasLens", page_icon="🔍", layout="centered")
 
-client = Groq(api_key="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")
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 st.title("🔍 BiasLens")
 st.caption("Know if your decision is objective — before it affects someone.")
