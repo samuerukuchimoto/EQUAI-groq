@@ -147,7 +147,7 @@ Every share is a network effect. Every analysis is a data point. Every Red resul
 ### What we're looking for
 Pre-seed conversations. Target raise: **$500K–$1.5M**.
 
-📩 [samuelclermont.contact.com](mailto:samuelclermont.contact.com) · [samuellouissaint.carrd.co](https://samuellouissaint.carrd.co)
+📩 [samuelclermont.contactgmail.com](mailto:samuelclermont.contact@gmail.com) · [samuellouissaint.carrd.co](https://samuellouissaint.carrd.co) · [linkedin.com/in/samuel-louissaint-226490411]([https://samuellouissaint.carrd.co](https://www.linkedin.com/in/samuel-louissaint-226490411))
 
 ---
 
